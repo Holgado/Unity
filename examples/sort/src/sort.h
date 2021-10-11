@@ -1,3 +1,3 @@
 
 
-void bubble_sort (int vetor[], int n);
+void sort (int vetor[], int n);

@@ -1,7 +1,7 @@
 
 #include "sort.h"
 
-void bubble_sort (int vetor[], int n) {
+void sort (int vetor[], int n) {
 	int k, j, aux;
 
     for (k = n - 1; k > 0; k--) {
