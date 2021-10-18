@@ -1,0 +1,19 @@
+#include "unity.h"
+#include "unity_fixture.h"
+
+TEST_GROUP_RUNNER(TV)
+{
+  RUN_TEST_CASE(TV, TestTV1);
+  RUN_TEST_CASE(TV, TestTV2);
+  RUN_TEST_CASE(TV, TestTV3);
+  RUN_TEST_CASE(TV, TestTV4);
+  RUN_TEST_CASE(TV, TestTV5);
+  RUN_TEST_CASE(TV, TestTV6);
+  RUN_TEST_CASE(TV, TestTV7);
+  RUN_TEST_CASE(TV, TestTV8);
+  RUN_TEST_CASE(TV, TestTV9);
+  RUN_TEST_CASE(TV, TestTV10);
+  RUN_TEST_CASE(TV, TestTV11);
+  RUN_TEST_CASE(TV, TestTV12);
+  RUN_TEST_CASE(TV, TestTV13);
+}
